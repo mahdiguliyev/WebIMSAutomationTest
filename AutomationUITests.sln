@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebIMS", "WebIMS\WebIMS.csproj", "{F93F42E0-DCD5-4CCA-B3D9-A939D0EA89F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resources", "Resources\Resources.csproj", "{6B3C594C-C24B-4732-8995-3400FF11D9EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F93F42E0-DCD5-4CCA-B3D9-A939D0EA89F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93F42E0-DCD5-4CCA-B3D9-A939D0EA89F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93F42E0-DCD5-4CCA-B3D9-A939D0EA89F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93F42E0-DCD5-4CCA-B3D9-A939D0EA89F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B3C594C-C24B-4732-8995-3400FF11D9EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B3C594C-C24B-4732-8995-3400FF11D9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B3C594C-C24B-4732-8995-3400FF11D9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B3C594C-C24B-4732-8995-3400FF11D9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {551EA429-DA83-4323-8453-5E99E60B536C}
+	EndGlobalSection
+EndGlobal
