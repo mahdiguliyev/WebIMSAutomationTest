@@ -1,0 +1,11 @@
+C:\AutomationTests\UIAutomationTests\Resources\bin\Debug\netcoreapp3.1\NLog.config
+C:\AutomationTests\UIAutomationTests\Resources\bin\Debug\netcoreapp3.1\Resources.deps.json
+C:\AutomationTests\UIAutomationTests\Resources\bin\Debug\netcoreapp3.1\Resources.dll
+C:\AutomationTests\UIAutomationTests\Resources\bin\Debug\netcoreapp3.1\Resources.pdb
+C:\AutomationTests\UIAutomationTests\Resources\obj\Debug\netcoreapp3.1\Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\AutomationTests\UIAutomationTests\Resources\obj\Debug\netcoreapp3.1\Resources.AssemblyInfoInputs.cache
+C:\AutomationTests\UIAutomationTests\Resources\obj\Debug\netcoreapp3.1\Resources.AssemblyInfo.cs
+C:\AutomationTests\UIAutomationTests\Resources\obj\Debug\netcoreapp3.1\Resources.csproj.CoreCompileInputs.cache
+C:\AutomationTests\UIAutomationTests\Resources\obj\Debug\netcoreapp3.1\Resources.dll
+C:\AutomationTests\UIAutomationTests\Resources\obj\Debug\netcoreapp3.1\Resources.pdb
+C:\AutomationTests\UIAutomationTests\Resources\obj\Debug\netcoreapp3.1\Resources.csproj.AssemblyReference.cache
